@@ -17,7 +17,7 @@ requirements = [
     "pytorch-lightning",
     "pydantic",
     "jsonlines",
-    "tokenizers==0.9.4444",
+    "tokenizers==0.9.4",
     "pandas",
 ]
 
